@@ -1,4 +1,4 @@
-# discord-hangmanbot 
+# C++ Text Adventure Game
 
 # Description
 A Simple C++ Game using text interactive gameplay.  
